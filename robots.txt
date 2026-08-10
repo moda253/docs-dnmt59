@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-yjrfd9.cnkitawin.online/sitemap.xml
